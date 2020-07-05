@@ -2,7 +2,7 @@
 This repo for my classes and assignments at the department.
 
 1. basic tasks
-  * [6 sem](https://github.com/bypofff/computational_mathematics/tree/master/computational%20mathematics%20-%20basic/6th%20sem/Первое%20задание)
+  * [6 sem](https://github.com/bypofff/computational_mathematics/tree/master/computational%20mathematics%20-%20basic/6th%20sem)
 
 
 2. department tasks
