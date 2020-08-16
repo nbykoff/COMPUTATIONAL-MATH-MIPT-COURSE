@@ -9,4 +9,5 @@ This repo for my classes and assignments at the department.
   * [5 sem](https://github.com/bypofff/computational_mathematics/tree/master/computational%20mathematics%20-%20department/5%20sem) - by [Pesnya](https://github.com/EPesnya)
   * [6 sem](https://github.com/bypofff/computational_mathematics/tree/master/computational%20mathematics%20-%20department/6%20sem)
   
-  Важное уточнение - в виде программ оформлены только первые 3 лабы 6-го семестра(остальные только в виде таблиц, которые принимал В.В.Демченко во время дистанционного обучения). Basic tasks - обычные вычматы, department tasks - практикум по вычислительной математике на кафедре вычислительной физики.
+  Basic tasks - обычные вычматы, department tasks - практикум по вычислительной математике на кафедре вычислительной физики.
+  Важное уточнение - в виде программ оформлены только первые 3 лабы 6-го семестра(остальные только в виде таблиц, которые принимал В.В.Демченко во время дистанционного обучения). 
