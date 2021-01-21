@@ -1,5 +1,5 @@
 # Сomputational Mathematics
-Сomputational Mathematics(basic and department). MIPT 2019 - 2020
+Сomputational Mathematics (basic and department). MIPT 2019 - 2020
 
 1. basic tasks
   * [6 sem](https://github.com/bypofff/computational_mathematics/tree/master/computational%20mathematics%20-%20basic/6th%20sem)
